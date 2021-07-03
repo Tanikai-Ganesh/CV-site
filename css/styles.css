@@ -84,6 +84,11 @@ font-size: 0.75rem;
 padding: 20px 0;
 }
 
+.Intro{
+  width:40%;
+  margin : auto;
+}
+
 .quote{
 
   padding-bottom: 50px;
@@ -124,7 +129,7 @@ margin-right: 30px;
 }
 .skill2{
   width:25%;
-  height:170px;
+  height:150px;
   float:right;
   margin-left: 30px;
 }
